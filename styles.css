@@ -1,0 +1,27 @@
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald" />
+
+p{font-family: Oswald;}
+.newsize{font-size: 20;}
+.pic{
+    margin-left: 50%;
+width: 300px;}
+
+
+h1{
+background-color: rgb(10, 202, 243);
+}
+
+
+
+
+
+.borderr {
+    border-radius: 100px;
+    border-color: 	#D4AF37;
+    border-width: 5px;
+    border-style: solid;}
+.ggg{font-size: 30;}
+body{background-color: red;}
+header{background-color: blue;}
+
+
